@@ -71,6 +71,7 @@ Your voice is crucial! Because we're building Axonotes *right now*, your feedbac
 ## 🌐 Stay Connected
 
 *   **Website:** [axonotes.ch](https://axonotes.ch) (Coming Soon!)
+*   **Discord Server:** [https://discord.gg/myBMaaDeQu](https://discord.gg/myBMaaDeQu)
 *   **X (Twitter):** [@axonotes](https://twitter.com/axonotes)
 *   **YouTube:** [@axonotes](https://youtube.com/@axonotes)
 *   **Instagram:** [@axonotes](https://instagram.com/axonotes)
