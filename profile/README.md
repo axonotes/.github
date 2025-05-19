@@ -74,9 +74,8 @@ Your voice is crucial! Because we're building Axonotes *right now*, your feedbac
 *   **Discord Server:** [https://discord.gg/myBMaaDeQu](https://discord.gg/myBMaaDeQu)
 *   **X (Twitter):** [@axonotes](https://twitter.com/axonotes)
 *   **YouTube:** [@axonotes](https://youtube.com/@axonotes)
-*   **Instagram:** [@axonotes](https://instagram.com/axonotes)
+*   **Reddit:** [r/axonotes](https://www.reddit.com/r/Axonotes/)
 *   **BlueSky:** [@axonotes.bsky.social](https://bsky.app/profile/axonotes.bsky.social)
-*   **TikTok:** [@axonotes_ch](https://www.tiktok.com/@axonotes_ch)
 
 ## 🛠️ Tech Sneak Peek
 
