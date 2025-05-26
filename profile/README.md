@@ -45,6 +45,9 @@ We're focused on:
 
 ## 🚀 Key Features (Highlights)
 
+For the most up-to-date information on planned features, sorted by community interest (thumbs up), please visit our GitHub Issues:
+[https://github.com/axonotes/AxonotesCore/issues?q=is%3Aissue%20state%3Aopen%20sort%3Areactions-%2B1-desc%20label%3Afeature](https://github.com/axonotes/AxonotesCore/issues?q=is%3Aissue%20state%3Aopen%20sort%3Areactions-%2B1-desc%20label%3Afeature)
+
 *   **All-in-One Academic Suite:** Notes, tasks, communication, and specialized learning tools.
 *   **Seamless Collaboration:** Real-time co-authoring, integrated chat, and institutional channels.
 *   **Powerful Note-Taking:** Flexible editor, Markdown, pen support, \( \LaTeX \), rich content embedding.
